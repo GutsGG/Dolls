@@ -1212,6 +1212,9 @@ body {
   justify-content: center;
   gap: 5px;
 }
+.footer__email a {
+  color: aliceblue;
+}
 .footer__email {
   font-family: "Raleway";
   font-style: normal;
